@@ -1,7 +1,7 @@
 //Program Name: Hangman
 //Purpose: Allows the player to play a game of Hangman
 //Author: Sydney Veney
-//Date Last Modified: 12/6/2019
+//Date Last Modified: 12/8/2019
 
 #include <iostream>
 #include <fstream>
