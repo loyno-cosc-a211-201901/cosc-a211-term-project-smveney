@@ -24,7 +24,7 @@ int main()
     cout << "|    /   \\     " << endl;
     cout << "|               " << endl;
     cout << "|____________   " << endl;
-    cout << "Press any key to start\n";
+    cout << "Press any key and then enter to start\n";
     cin >> start;
 
     //start of game
@@ -236,6 +236,7 @@ int main()
                 cout << "|    /   \\      " << endl;
                 cout << "|               " << endl;
                 cout << "|____________   " << endl;
+                cout << "The word was: " << word << endl;
                 cout << "\n\n\n\n";
                 numOfGuesses--; 
                 break;
