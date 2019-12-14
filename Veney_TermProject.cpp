@@ -11,7 +11,7 @@ using namespace std;
 
 int main()
 {
-    char start {};
+    char start ;
     //start screen
     cout << "Welcome to Hangman!\n";
     cout << "_____________   " << endl;

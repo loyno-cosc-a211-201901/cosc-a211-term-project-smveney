@@ -1,0 +1,4 @@
+Fri Dec 13 20:40:18 CST 2019
+compiles but the game interface does not work well
+starts off showing full hangman
+first successful letter results in "you guessed the word"
